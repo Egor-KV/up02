@@ -25,6 +25,6 @@
 
 ## Авторы
 
-* **Egor Kolbin** - *0*ip213* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Egor Kolbin** - *09*ip213* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
