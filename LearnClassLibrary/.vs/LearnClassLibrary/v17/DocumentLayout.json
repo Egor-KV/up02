@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\up09ip213\\LearnClassLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D689EB-DC33-4DFF-8CE3-EC8EBECAA86E}|LearnClassLibrary.Tests1\\LearnClassLibrary.Tests1.csproj|d:\\up09ip213\\learnclasslibrary\\learnclasslibrary.tests1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D689EB-DC33-4DFF-8CE3-EC8EBECAA86E}|LearnClassLibrary.Tests1\\LearnClassLibrary.Tests1.csproj|solutionrelative:learnclasslibrary.tests1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B886FEE6-D06E-4359-92BD-C7E9EDEEF537}|LearnClassLibrary\\LearnClassLibrary.csproj|D:\\up09ip213\\LearnClassLibrary\\learnclasslibrary\\learnclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B886FEE6-D06E-4359-92BD-C7E9EDEEF537}|LearnClassLibrary\\LearnClassLibrary.csproj|solutionrelative:learnclasslibrary\\learnclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\up09ip213\\LearnClassLibrary\\LearnClassLibrary.Tests1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LearnClassLibrary.Tests1\\UnitTest1.cs",
+              "ToolTip": "D:\\up09ip213\\LearnClassLibrary\\LearnClassLibrary.Tests1\\UnitTest1.cs",
+              "RelativeToolTip": "LearnClassLibrary.Tests1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:45:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearnClass.cs",
+              "DocumentMoniker": "D:\\up09ip213\\LearnClassLibrary\\LearnClassLibrary\\LearnClass.cs",
+              "RelativeDocumentMoniker": "LearnClassLibrary\\LearnClass.cs",
+              "ToolTip": "D:\\up09ip213\\LearnClassLibrary\\LearnClassLibrary\\LearnClass.cs",
+              "RelativeToolTip": "LearnClassLibrary\\LearnClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:40:02.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
